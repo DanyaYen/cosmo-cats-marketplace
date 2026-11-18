@@ -2,7 +2,7 @@ name: Build & Test Cosmo Cats Marketplace
 
 on:
   pull_request:
-    branches: [ main, feat/lab-1, feat/lab-2, feat/lab-3 ]
+    branches: [ main, feat/lab-1, feat/lab-2, feat/lab-3, feat/lab-4 ]
   push:
     branches: [ main ]
 

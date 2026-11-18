@@ -27,3 +27,9 @@ app:
   kafka:
     topics:
       cart-events: cosmocats.cart.events
+
+feature:
+  cosmoCats:
+    enabled: true
+  kittyProducts:
+    enabled: false
